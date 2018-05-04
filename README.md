@@ -3,6 +3,8 @@
 #this version is not ready for deployment as of May 4, 2018. Please check back soon
 system Requirements
 
+system Requirements
+
 macOS High Sierra version 10.13.3 (not tested on other versions)
 
 Command Line TOols (\macOS 10.13) for Xcode 9.3
@@ -17,6 +19,10 @@ command: sudo cp /Users/"user_name"/meme/bin/fimo /usr/local/bin/
 
 BEDOPS 2.4.30 (This tool associates motif match coordinates with adjacent gene features.
 Installation guide: http://bedops.readthedocs.io/en/latest/content/installation.html#mac-os-x
+
+INSTALL:
+double click the file named "setup.command". Wait until	you see	the "Process completed" notification before running TargetOrtho.
+
 
 Running TargetOrtho 2.0 Using the GUI application (user interface that runs the command line tool automatically):
 1. unzip TargetOrtho2.0
