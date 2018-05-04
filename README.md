@@ -2,7 +2,7 @@ system Requirements
 
 macOS High Sierra version 10.13.3 (not tested on other versions)
 
-Command Line TOols (\macOS 10.13) for Xcode 9.3
+Command Line Tools (\macOS 10.13) for Xcode 9.3
 Install here: https://developer.apple.com/download/more/
 
 meme version 4.12.0 (fimo tool scans genomes for motif matches) 
