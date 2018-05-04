@@ -5,10 +5,13 @@ system Requirements
 macOS High Sierra version 10.13.3 (not tested on other versions)
 
 Command Line Tools (\macOS 10.13) for Xcode 9.3
+
 Install here: https://developer.apple.com/download/more/
 
 meme version 4.12.0 (fimo tool scans genomes for motif matches) 
+
 Installation guide: http://meme-suite.org/doc/install.html?man_type=web
+
 Download here: http://meme-suite.org/meme-software/4.12.0/meme_4.12.0.tar.gz
 
 Make sure fimo is executable by copying to /usr/local/bin/. Open the terminal and enter this command with "user_name" replaced with your personal user name.
@@ -16,6 +19,7 @@ Make sure fimo is executable by copying to /usr/local/bin/. Open the terminal an
 command: sudo cp /Users/"user_name"/meme/bin/fimo /usr/local/bin/
 
 BEDOPS 2.4.30 (This tool associates motif match coordinates with adjacent gene features.
+
 Installation guide: http://bedops.readthedocs.io/en/latest/content/installation.html#mac-os-x
 
 INSTALL:
