@@ -1,4 +1,6 @@
 # TargetOrtho2.0
+
+#this version is not ready for deployment as of May 4, 2018. Please check back soon
 system Requirements
 
 macOS High Sierra version 10.13.3 (not tested on other versions)
