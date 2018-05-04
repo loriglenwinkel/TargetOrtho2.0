@@ -35,6 +35,5 @@ Running TargetOrtho from the command line:
 3. command: python taragetortho.py -h to see options.
 
 Running TargetOrtho from the commane line with an example motif file:
-This command runs the TargetOrtho with the COE motif using a p value threshold for fimo of 0.0001 and resticts the motif match search to 500 nucleotides within a g\
-ene start position.
+This command runs the TargetOrtho with the COE motif using a p value threshold for fimo of 0.0001 and resticts the motif match search to 500 nucleotides within a gene start position.
 command: python targetortho.py -f data/input_motif_examples/COE_motif_PSSM_meme4.txt -d 500 -p 0.0001
