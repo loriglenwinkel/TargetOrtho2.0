@@ -21,18 +21,17 @@ BEDOPS 2.4.30 (This tool associates motif match coordinates with adjacent gene f
 Installation guide: http://bedops.readthedocs.io/en/latest/content/installation.html#mac-os-x
 
 INSTALL:
-double click the file named "setup.command". Wait until	you see	the "Process completed" notification before running TargetOrtho.
+Download and unzip TargetOrtho2.0_download directory	by double clicking.
+Open the directory and double click the file named "setup.command". Wait until you see the "Process completed" notification before running TargetOrtho.
 
 
 Running TargetOrtho 2.0 Using the GUI application (user interface that runs the command line tool automatically):
-1. unzip TargetOrtho2.0
-2. find TargetOrtho_App.command file within the TargetOrtho2.0 directory.
-3. Double click TargetOrtho_App.command and follow the promt.
+1. find TargetOrtho_App.command file within the TargetOrtho2.0 directory.
+2. Double click TargetOrtho_App.command and follow the promt.
 
 Running TargetOrtho from the command line:
-1. unzip TargetOrtho2.0
-2. navigate to the TargetOrtho2.0 directory from the command line
-3. command: python taragetortho.py -h to see options.
+1. navigate to the TargetOrtho2.0 directory from the command line
+2. command: python taragetortho.py -h to see options.
 
 Running TargetOrtho from the commane line with an example motif file:
 This command runs the TargetOrtho with the COE motif using a p value threshold for fimo of 0.0001 and resticts the motif match search to 500 nucleotides within a gene start position.
