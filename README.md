@@ -53,6 +53,7 @@ This command runs TargetOrtho with the COE motif using a p value threshold for f
 *Results are expressed as prediction probablies where values between 0 and 1 are increasingly likely to be real transcription factor targets (0.99 =99% probabiliy of being a real TF target gene) and results between -1 and 0 are unlikely to be real targets (-0.99=99% probabiliy that the gene is not a real TF target gene).
 
 *Predictions are generated from modeling of validated transcription factor target genes from UNC-3, ASE, and ttx-3/ceh-10 target genes using a support vector machine to train the model.
+
 *detailed information about individual motif match results per species are found in separate spreadsheets
 
 
