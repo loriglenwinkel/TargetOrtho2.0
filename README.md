@@ -56,6 +56,6 @@ This command runs TargetOrtho with the COE motif using a p value threshold for f
 
 *detailed information about individual motif match results per species are found in separate spreadsheets
 
-
+*results from the fimo motif scanner are stored for browsing in the results 
 
 # TargetOrtho2.0
