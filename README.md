@@ -12,6 +12,7 @@ Installation guide: http://meme-suite.org/doc/install.html?man_type=web
 Download here: http://meme-suite.org/meme-software/4.12.0/meme_4.12.0.tar.gz
 
 Make sure fimo is executable by copying to /usr/local/bin/. Open the terminal and enter this command with "user_name" replaced with your personal user name.
+
 command: sudo cp /Users/"user_name"/meme/bin/fimo /usr/local/bin/
 
 BEDOPS 2.4.30 (This tool associates motif match coordinates with adjacent gene features.
