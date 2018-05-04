@@ -908,7 +908,7 @@ def main():
     except Exception as e: 
         print(e)
         #clear entire output directory and temp file.
-        #clear_error()
+        clear_error()
 main()
 
 
