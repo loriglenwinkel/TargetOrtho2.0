@@ -1,3 +1,5 @@
+TargetOrtho: A Phylogenetic Footprinting Tool to Identify Transcription Factor Targets.
+
 system Requirements
 
 macOS High Sierra version 10.13.3 (not tested on other versions)
