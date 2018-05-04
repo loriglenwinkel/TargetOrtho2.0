@@ -23,6 +23,7 @@ BEDOPS 2.4.30 (This tool associates motif match coordinates with adjacent gene f
 Installation guide: http://bedops.readthedocs.io/en/latest/content/installation.html#mac-os-x
 
 INSTALL:
+
 Download and unzip TargetOrtho2.0_download directory by double clicking.
 Open the directory and double click the file named "setup.command". Wait until you see the "Process completed" notification before running TargetOrtho.
 
