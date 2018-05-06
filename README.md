@@ -2,7 +2,7 @@ TargetOrtho: A Phylogenetic Footprinting Tool to Identify Transcription Factor T
 
 system Requirements
 
-macOS High Sierra version 10.13.3 (not tested on other versions)
+macOS High Sierra version 10.13.3, Ubuntu 14.04.1 (command line tool only)
 
 Command Line Tools (\macOS 10.13) for Xcode 9.3
 
@@ -27,6 +27,9 @@ INSTALL:
 Download and unzip TargetOrtho2.0_download directory by double clicking.
 Open the directory and double click the file named "setup.command". Wait until you see the "Process completed" notification before running TargetOrtho.
 
+Install the following python modules:
+sklearn
+pandas
 
 Running TargetOrtho 2.0 Using the GUI application (user interface that runs the command line tool automatically):
 1. Double click TargetOrtho_App.command and follow the promt.
