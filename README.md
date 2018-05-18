@@ -24,12 +24,15 @@ Installation guide: http://bedops.readthedocs.io/en/latest/content/installation.
 
 bedtools v2.27.1
 
+python2.7
+python modules: sklearn, pandas (or install Anaconda for python2.7)
+
 INSTALL:
 
 Download and unzip TargetOrtho2.0_download directory by double clicking.
 Open the directory and double click the file named "setup.command". Wait until you see the "Process completed" notification before running TargetOrtho.
 
-Install the following python modules: (if Anaconda is installed, these modules are included with python automatically).
+Install the following python modules: (if Anaconda for python2.7 is installed, these modules are included with python automatically).
 sklearn
   pip install sklearn
 pandas
