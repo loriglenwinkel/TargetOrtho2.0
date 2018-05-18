@@ -31,6 +31,7 @@ Open the directory and double click the file named "setup.command". Wait until y
 
 Install the following python modules:
 sklearn
+  pip install sklearn
 pandas
 
 Running TargetOrtho 2.0 Using the GUI application (user interface that runs the command line tool automatically):
