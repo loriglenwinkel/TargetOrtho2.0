@@ -47,7 +47,9 @@ command: python targetortho.py -f data/input_motif_examples/COE_motif_PSSM_meme4
 This command runs TargetOrtho with the COE motif using a p value threshold for fimo of 0.0001 and resticts the motif match search to 500 nucleotides within a gene start position.
 
 INSTALL Linux (Ubuntu):
+git clone https://github.com/loriglenwinkel/TargetOrtho2.0.git
 tar -xvzf TargetOrtho2.0.tar.gz
+cd TargetOrtho2.0
 python setup.command
 command line: python targetortho.py -options
 
