@@ -29,7 +29,7 @@ bedtools version v2.17.0
 Use macports to install dependences (not Homebrew). Follow meme install instructions and use the ./configure --prefix=$HOME/meme option.
 Make sure fimo is executable by copying to /usr/local/bin/. Open the Terminal App and type: sudo cp $HOME/meme/bin/fimo /usr/local/bin/
 
-INSTALL:
+INSTALL OS X:
 
 Download and unzip TargetOrtho2.0 directory by double clicking. Open the TargetOrtho2.0 directory and double click the file named "setup.command". Wait until you see the "Process completed" notification before running TargetOrtho.
 
@@ -46,7 +46,12 @@ command: python targetortho.py -f data/input_motif_examples/COE_motif_PSSM_meme4
 
 This command runs TargetOrtho with the COE motif using a p value threshold for fimo of 0.0001 and resticts the motif match search to 500 nucleotides within a gene start position.
 
-#changes to version 2.0
+INSTALL Linux (Ubuntu):
+tar -xvzf TargetOrtho2.0.tar.gz
+python setup.command
+command line: python targetortho.py -options
+
+#changes in version 2.0
 
 *the entire job runs in less than 10 to 45 minutes (instead of days!).
 
