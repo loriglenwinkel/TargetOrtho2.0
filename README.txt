@@ -20,7 +20,7 @@ bedtools version v2.27.1
 
 
 Ubuntu 14.04 (command line version only)
-python2.7 (requires sklearn and pandas modules)
+python2.7 (requiresscikit-learn version is > 0.18.1. and pandas modules -can all be installed with anaconda2)
 meme version 4.12.0 (make sure fimo is executable by copying fimo to /usr/local/bin/ 
 BEDOPS version 2.4.35
 bedtools version v2.17.0
